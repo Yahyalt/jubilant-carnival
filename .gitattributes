@@ -1,0 +1,6 @@
+# .gitattributes
+* text=auto
+
+# Set LF line endings for specific file types or directories
+*.js text eol=lf
+*.json text eol=lf
